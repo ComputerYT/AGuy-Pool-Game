@@ -38,7 +38,7 @@ Game_Singleton.prototype.initialize = function () {
 
 Game_Singleton.prototype.initMenus = function(inGame){
 
-    let labels = generateMainMenuLabels("Classic 8-Ball");
+    let labels = generateMainMenuLabels("AGuy's Classic 8-Ball");
 
     let buttons = generateMainMenuButtons(inGame);
 
